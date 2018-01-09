@@ -1,0 +1,21 @@
+{
+    "name": "daxslab/yii2-poligloturl",
+    "description": "Extension to help setup the language of an application based on params specifing the language",
+    "type": "yii2-extension",
+    "keywords": ["yii2","seo","url","i18n"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel A. López López",
+            "email": "glpz@daxslab.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "daxslab\\poligloturl\\": ""
+        }
+    }
+}
